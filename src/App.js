@@ -22,8 +22,11 @@ class App extends Component {
       awards: profileData.awards
     }
 
-    ReactGA.initialize('UA-162526072-1')
-    ReactGA.pageview(window.location.pathname + window.location.search)
+    // ReactGA blows up if the app is being tested
+    if (process.env.NODE_ENV !== 'test') {
+      ReactGA.initialize('UA-162526072-1')
+      ReactGA.pageview(window.location.pathname + window.location.search)
+    }
   }
   render() {
     return (
