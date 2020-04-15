@@ -27,14 +27,14 @@
 	"education": [{
 			"university": "Portland State University",
 			"degree": "Bachelor of Computer Science",
-			"gpa": "3.79",
+			"gpa": "GPA 3.79",
 			"fromDate": "Fall 2018",
 			"toDate": "Spring 2020"
 		},
 		{
 			"university": "Portland Community College",
 			"degree": "Associates of Arts Oregon Regional Transfer",
-			"gpa": "3.39",
+			"gpa": "GPA 3.39",
 			"fromDate": "Winter 2015",
 			"toDate": "Spring 2018"
 		}
