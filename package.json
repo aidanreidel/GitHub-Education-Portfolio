@@ -8,7 +8,6 @@
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-ga": "^2.7.0",
@@ -20,8 +19,7 @@
     "test": "NODE_ENV=test react-scripts test",
     "ci-test": "CI=true yarn test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "yarn run build"
   },
   "eslintConfig": {
     "extends": "react-app"
