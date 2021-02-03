@@ -29,6 +29,13 @@
 			"aboutWork": "My work on my capstone team was focused on the website, or Presentation, portion of this project. We used the javascript framework Mithril with Bootstrap and custom CSS to make the fronted, Node and Express to make the API server and connected all of this with the Restoration team's MySQL database using docker containers.",
 			"fromDate": "September 2019",
 			"toDate": "March 2020"
+		},
+		{
+			"position": "Sauté Chef",
+			"organization": "Yakuza Lounge",
+			"aboutWork": "I worked at a local Japanese Izakaya restaurant making gourmet small plates while paying my way through community college.",
+			"fromDate": "June 2014",
+			"toDate": "June 2017"
 		}
 	],
 	"education": [{
