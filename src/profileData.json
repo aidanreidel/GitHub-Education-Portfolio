@@ -17,6 +17,13 @@
 				"toDate": "December 2020"
 		},
 		{
+			"position": "Engineering Consultant",
+			"organization": "CID AgTech",
+			"aboutWork": "I work as a freelance full stack engineer and product design consultant for a local agricultural technology distribution and production startup.",
+			"fromDate": "May 2018",
+			"toDate": "Present"
+		},
+		{
 			"position": "Full Stack Engineer",
 			"organization": "Capstone - Portland State University",
 			"aboutWork": "My work on my capstone team was focused on the website, or Presentation, portion of this project. We used the javascript framework Mithril with Bootstrap and custom CSS to make the fronted, Node and Express to make the API server and connected all of this with the Restoration team's MySQL database using docker containers.",
