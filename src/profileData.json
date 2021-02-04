@@ -55,28 +55,52 @@
 	],
 	"skills": [
 		{
+			"name": "Lambda"
+		},
+		{
+			"name": "DynamoDB"
+		},
+		{
+			"name": "EC2"
+		},
+		{
+			"name": "Amplify"
+		},
+		{
 			"name": "Javascript"
 		},
 		{
-			"name": "Docker"
-		},
-		{
-			"name": "Mithril"
-		},
-		{
-			"name": "HTML"
+			"name": "Node.js"
 		},
 		{
 			"name": "React"
 		},
 		{
+			"name": "React Native"
+		},
+		{
+			"name": "Git"
+		},
+		{
+			"name": "GitHub"
+		},
+		{
+			"name": "Docker"
+		},
+		{
+			"name": "Express Server"
+		},
+		{
+			"name": "HTML"
+		},
+		{
 			"name": "CSS"
 		},
 		{
-			"name": "Node"
+			"name": "SQL"
 		},
 		{
-			"name": "SQL"
+			"name": "HCI"
 		}
 	],
 	"interests": {
