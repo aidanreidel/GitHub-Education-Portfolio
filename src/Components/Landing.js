@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin, faTwitter } from "@fortawesome/free-brands-svg-icons";
 import MotovunJack from '../Assets/Motovun_Jack'
 
 class Landing extends Component {
@@ -29,6 +29,9 @@ class Landing extends Component {
             </a>
             <a href={"https://blog.aidanreidel.com"} target="_blank" rel="noopener noreferrer">
               <MotovunJack/>
+            </a>
+            <a href={this.landingData.twitter} target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faTwitter} />
             </a>
           </div>
         </div>
